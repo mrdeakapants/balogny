@@ -1,0 +1,22 @@
+From APN Settings app:
+
+Type : internet
+Accountname : Verizon
+Country : USA
+Apn : verizon/vzwinternet
+Apntype : verizon/vzwinternet
+Apnprotocol : 
+Enabled : 
+Proxy : null
+Server : 
+Port : null
+Username : MobileNumber@vzw3g.com
+Password : vzw
+Mmsc : http://mms.vtext.com/servlets/mms
+Mmsproxy : null
+Mmsport : null
+Mcc : 310
+Mnc : 12
+Authtype : Not Set
+Bearer : 
+Comments : 
